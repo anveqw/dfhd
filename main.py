@@ -1,2 +1,2 @@
 print("fghffffvf")
-print("Fanil007")
+print("l007")
