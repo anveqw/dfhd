@@ -1,4 +1,4 @@
 print("fghffffvf")
-print("l00jjjjjjjjjjjjjjjjjjjjjjjj7")
-print("ghWWWWWWWWWWWWWWWWWWWWWWW")
-print("AAA")
+print("почему когда я откатила до предыдущей ветки с помощью git reset soft а потом сохранила, ничего в коде не изменилось")
+print("в чем ошибка")
+print("или это фича")
