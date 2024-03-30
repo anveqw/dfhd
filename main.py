@@ -1,5 +1,1 @@
 print("fghffffvf")
-print("почему когда я откатила до предыдущей ветки с помощью git reset soft а потом сохранила, ничего в коде не изменилось")
-print("в чем ошибка")
-print("или это фича//")
-print("QQQQQQQQQQQQQQQQQQQQQQQQQQQQ")
